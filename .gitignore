@@ -1,0 +1,7 @@
+Debug
+*.suo
+.cache
+packages
+.vs
+bin
+obj
